@@ -1,0 +1,16 @@
+
+install first
+
+      >>  npm install @react-navigation/native @react-navigation/native-stack
+
+
+
+--- If you have a bare React Native project, install the dependencies with npm:
+
+      >>  npm install react-native-screens react-native-safe-area-context
+
+
+
+-- If you have an Expo managed project, install the dependencies with expo:
+
+      >>  npx expo install react-native-screens react-native-safe-area-context
